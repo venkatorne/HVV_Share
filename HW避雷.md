@@ -62,9 +62,9 @@
   </video>
   <br>https://github.com/venkatorne/HVV_Share/assets/141924762/0658cb4b-ffc9-4d8d-9244-af9ab3b9508d
 * 7.31 跟中介问询项目分配
-  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/bfecad75-2101-483e-8d08-1cd9f621cd7d" width="250"/>
+  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/892780b7-4730-4e85-985f-7138aab2736b" width="250"/>
 * 8.7 19:53 （开始前两天晚上） 分配项目进群
-  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/dfe8657f-2318-437d-89ef-6e782961f249" width="250"/>
+  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/51f82c54-4cb4-47c7-b240-613a7d0733ea" width="250"/>
 * 8.7 22:10 跟项目经理确认只能排7天或8天夜班
   <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/e83135cc-b750-4910-a8f8-20a223a1c2fb" width="250"/>
 * 8.7 22:12 跟中介问询天数，中介表示他去协调
