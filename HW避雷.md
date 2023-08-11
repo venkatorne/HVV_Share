@@ -68,12 +68,11 @@
 * 8.7 22:10 跟项目经理确认只能排7天或8天夜班
   <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/e83135cc-b750-4910-a8f8-20a223a1c2fb" width="250"/>
 * 8.7 22:12 跟中介问询天数，中介表示他去协调
-  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/a01ed71a-7314-4f4c-a287-bf980852e3d1" width="250"/>
+  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/72a765ff-4617-4179-acc4-258febae754b" width="250"/>
   <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/e30a0ab0-b2fd-4d0e-8c5f-b369fb290414" width="250"/>
 * 8.7 22:22 项目经理突然跟我表示：你考虑下其他项目，我这边没这么多空余人天
   <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/e83135cc-b750-4910-a8f8-20a223a1c2fb" width="250"/>
 * 8.7 22:23 截图发给中介，中介表示客户把我pass了，换人了（我跟中介与项目经理均未表示拒绝该项目）
-  <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/387bd7e4-ca4b-45fa-a23f-7c9ec75c5aa1" width="250"/>
 * 8.7 22:31 中介表示换项目，需要等明天(8.8日)安排
 * 8.8 整日未回消息
 * 8.9 中介表示：你被释放了
