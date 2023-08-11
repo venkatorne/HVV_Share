@@ -60,7 +60,7 @@
   <video controls width="250">
   <source src="https://github.com/venkatorne/HVV_Share/assets/141924762/0658cb4b-ffc9-4d8d-9244-af9ab3b9508d" type="video/mp4" />
   </video>
-  https://github.com/venkatorne/HVV_Share/assets/141924762/0658cb4b-ffc9-4d8d-9244-af9ab3b9508d
+  <br>https://github.com/venkatorne/HVV_Share/assets/141924762/0658cb4b-ffc9-4d8d-9244-af9ab3b9508d
 * 7.31 跟中介问询项目分配
   <br><img src="https://github.com/venkatorne/HVV_Share/assets/141924762/bfecad75-2101-483e-8d08-1cd9f621cd7d" width="250"/>
 * 8.7 19:53 （开始前两天晚上） 分配项目进群
